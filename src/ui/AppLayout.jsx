@@ -8,7 +8,7 @@ function AppLayout() {
         <header className="py-4">
           <a href="https://www.google.com">
             <img
-              src="../../public/logo.svg"
+              src="./images/logo.svg"
               alt="logo"
               className="h-10 text-violet-500"
             ></img>
