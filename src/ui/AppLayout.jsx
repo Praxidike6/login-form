@@ -9,7 +9,7 @@ function AppLayout() {
           <a href="https://www.google.com">
             <img
               src="../../public/logo.svg"
-              alt="https://cdn.pixabay.com/photo/2013/07/12/15/05/android-149390_1280.png"
+              alt="logo"
               className="h-10 text-violet-500"
             ></img>
           </a>
