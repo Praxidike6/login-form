@@ -8,8 +8,8 @@ function AppLayout() {
         <header className="py-4">
           <a href="https://www.google.com">
             <img
-              src="./public/images/logo.png"
-              alt="text"
+              src="https://cdn.pixabay.com/photo/2013/07/12/15/05/android-149390_1280.png"
+              alt="robot"
               className="h-10 text-violet-500"
             ></img>
           </a>
