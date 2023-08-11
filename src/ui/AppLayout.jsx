@@ -1,4 +1,5 @@
 import LoginForm from "../features/Login/LoginForm";
+import logo from "../images/logo.svg";
 
 function AppLayout() {
   return (
@@ -7,11 +8,7 @@ function AppLayout() {
       <section className="flex flex-col px-8 md:py-5 max-w-screen-2xl min-h-screen antialiased">
         <header className="py-4">
           <a href="https://www.google.com">
-            <img
-              src="./images/logo.svg"
-              alt="logo"
-              className="h-10 text-violet-500"
-            ></img>
+            <img src={logo} alt="logo" className="h-10 text-violet-500"></img>
           </a>
         </header>
         <section className="flex flex-col gap-20 py-5 md:flex-row md:py-10">
